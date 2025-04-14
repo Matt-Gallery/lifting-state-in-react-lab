@@ -18,4 +18,3 @@ const BurgerStack = (props) => {
 };
 
 export default BurgerStack;
-  
